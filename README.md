@@ -10,7 +10,9 @@
 - ⚡ Fun fact: I always keep a rubber duck nearby 🦆.
 
 ## 📊 Most used languages:
-[![Top Langs](https://github-readme-stats-xaviergomez95s-projects.vercel.app/api/top-langs/?username=XavierGomez95&layout=compact&theme=tokyonight&hide=html,css&exclude_repo=nombre-del-repo)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats-xaviergomez95s-projects.vercel.app/api/top-langs/?username=XavierGomez95&layout=compact&theme=tokyonight&hide=html,css&exclude_repo=github-readme-stats&cache_seconds=1)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 💻 Languages
