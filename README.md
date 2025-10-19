@@ -9,6 +9,10 @@
 - 📫 How to reach me: xaviergomezxcv@gmail.com | [LinkedIn profile](https://www.linkedin.com/in/xavier-g%C3%B3mez-de-la-torre-017ba514a/)
 - ⚡ Fun fact: I always keep a rubber duck nearby 🦆.
 
+## 📊 Most used languages:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+
 💻 Languages
 
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![APEX](https://img.shields.io/badge/apex-%2300A1E0.svg?style=for-the-badge&logo=salesforce&logoColor=white)
